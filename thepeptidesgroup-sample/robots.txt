@@ -1,2 +1,10 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /catalog.html
+Disallow: /checkout.html
+Disallow: /bpc-157.html
+Disallow: /ghk-cu.html
+Disallow: /login.html
+Disallow: /eligibility.html
+Disallow: /product.html
+Disallow: /coa-result.html
